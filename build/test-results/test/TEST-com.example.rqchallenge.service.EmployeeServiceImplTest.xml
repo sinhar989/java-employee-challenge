@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rqchallenge.service.EmployeeServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-13T10:20:10" hostname="DESKTOP-M3REU6L" time="1.052">
+  <properties/>
+  <testcase name="getTopTenHighestEarningEmployeeNames()" classname="com.example.rqchallenge.service.EmployeeServiceImplTest" time="1.016"/>
+  <testcase name="getEmployeeById()" classname="com.example.rqchallenge.service.EmployeeServiceImplTest" time="0.003"/>
+  <testcase name="should_ThrowEmployeeNotFoundException_When_EmployeeNotFound()" classname="com.example.rqchallenge.service.EmployeeServiceImplTest" time="0.011"/>
+  <testcase name="getAllEmployees()" classname="com.example.rqchallenge.service.EmployeeServiceImplTest" time="0.002"/>
+  <testcase name="getHighestSalaryOfEmployees()" classname="com.example.rqchallenge.service.EmployeeServiceImplTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
